@@ -4,9 +4,8 @@ public class StringFormatting {
 
 	public static void main(String[] args) {
 		
-		String test = "";
-		
 		String name = "oluwadara";
+		String name2 = "update";
 		int age = 21;
 		System.out.format("Your name is %s! \nYou are %d years old.", name, age);
 		//System.out.println(identity);
